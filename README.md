@@ -1,6 +1,5 @@
 # Library-Management-System(GUI)
 A Client-Server Architecture Based Library Management System with a decent looking GUI!  
-***PS: It was my class 12th Computer Science Project!!***
 
 
 # Installation
@@ -15,21 +14,3 @@ A Client-Server Architecture Based Library Management System with a decent looki
 Username: `root`  
 Password: `toor`
 
-# Some Screenshots:-
-## Home screen - 
-![Home Screen](https://github.com/mymadhavyadav07/Library-Management-System/blob/main/images/home_screen.png)  
-
-## Add Books - 
-![Add Books](https://github.com/mymadhavyadav07/Library-Management-System/blob/main/images/add_books.png)  
-
-## Return Books - 
-![Return Books](https://github.com/mymadhavyadav07/Library-Management-System/blob/main/images/return_books.png)  
-
-
-
-# Lastly...
-### Star this repo please ⭐(stop ignoring this message)
-
-Made with lots of ❤ and dedication by **Madhav Yadav**!!
-
-![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
